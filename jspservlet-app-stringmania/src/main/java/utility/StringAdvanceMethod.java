@@ -37,5 +37,4 @@ public class StringAdvanceMethod {
         return String.valueOf(input1.indexOf(input2));
 
     }
-    //Enter the code here...
 }

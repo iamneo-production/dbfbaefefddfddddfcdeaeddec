@@ -30,6 +30,4 @@ public class StringMethod {
     {
         return input.trim();
     }
-
-//  Enter the code here....
 }
